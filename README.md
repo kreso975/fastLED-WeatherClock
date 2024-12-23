@@ -1,5 +1,5 @@
 # fastLED-WeatherClock
-Simple fastLED arduino code for Wall clock showing Time, Date, Temperature and Humidity
+Simple fastLED arduino code for Wall clock showing Time, Date, Temperature and Humidity. WS2812b matrix 8x32.
 
 
 [![Watch the video](https://img.youtube.com/vi/AOd8lBZHNKo/0.jpg)](https://www.youtube.com/watch?v=AOd8lBZHNKo)
